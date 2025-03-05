@@ -1,6 +1,5 @@
 // Copyright 2013 Sonia Keys
-// License: MIT
-
+// License: MIT ngfhgfhgf
 package apparent_test
 
 import (
@@ -10,7 +9,6 @@ import (
 	"github.com/soniakeys/meeus/v3/base"
 	"github.com/soniakeys/meeus/v3/coord"
 	"github.com/soniakeys/meeus/v3/julian"
-	"github.com/soniakeys/sexagesimal"
 	"github.com/soniakeys/unit"
 )
 
